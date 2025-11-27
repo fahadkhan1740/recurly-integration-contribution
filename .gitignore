@@ -14,3 +14,4 @@
 /electron/node_modules/
 /.claude/
 /api/node/.claude/
+/api/node/.claude/settings.local.json
