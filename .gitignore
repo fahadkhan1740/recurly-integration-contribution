@@ -13,3 +13,4 @@
 /api/java/target
 /electron/node_modules/
 /.claude/
+/api/node/.claude/
