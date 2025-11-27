@@ -42,7 +42,7 @@ app.post('/api/subscriptions/new', async function (req, res) {
   // information: planCode, currency, account.code, and
   // the token we generated on the frontend
   const purchaseReq = {
-    subscriptions: [{ planCode: 'basic' }],
+    subscriptions: [{ planCode: 'lgf_basic' }],
     currency: 'USD',
     account: { code, billingInfo }
   }
