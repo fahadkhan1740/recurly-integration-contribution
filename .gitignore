@@ -12,3 +12,4 @@
 /api/java/.java-version
 /api/java/target
 /electron/node_modules/
+/.claude/
